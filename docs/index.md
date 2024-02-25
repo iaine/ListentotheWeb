@@ -38,9 +38,19 @@ Topics include, but not limited to:
 
 The session will begin with short presentations, such as paper or audio of about 10 minutes before moving to a working session to develop resources and links.
 
+## Submissions
+
+Please submit your abstract to EasyChair:
+https://easychair.org/conferences/?conf=sonifywebsci24
+
+Papers should be up to 5 pages (including references, appendices, etc.). 
+
+All papers should adopt the current ACM SIG Conference proceedings template (acmart.cls). Please submit papers as PDF files using the ACM template, either in Microsoft Word format (available at https://www.acm.org/publications/proceedings-template under “Word Authors”) or with the ACM LaTeX template on the Overleaf platform, which is available at https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty. In particular; please ensure that you are using the two-column version of the appropriate template.
+
 ## Organisers
 
 Iain Emsley, University of Warwick
+
 David de Roure, University of Oxford
 
 If you have any questions, please contact Iain at iain (dot) emsley (@) warwick (dot) ac (dot) uk
