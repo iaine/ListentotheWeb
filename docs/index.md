@@ -38,9 +38,18 @@ Topics include, but not limited to:
 
 The session will begin with short presentations, such as paper or audio of about 10 minutes before moving to a working session to develop resources and links.
 
+## Dates
+
+The deadline is midnight April 4th using Anywhere on Earth time.
+
+We aim to send responses after April 12th. 
+
+If your paper is to be included in the companion collection of the ACM WebSci24 proceedings, you will need to adhere to the schedule for the publication of the overall proceedings. Camera-ready papers before 24 April 2024. This is a strict deadline, and the conference will not be able to include any papers after this date.
+
+
 ## Submissions
 
-Please submit your abstract to EasyChair:
+Please submit your abstract (300 words) to EasyChair:
 https://easychair.org/conferences/?conf=sonifywebsci24
 
 Papers should be up to 5 pages (including references, appendices, etc.). 
