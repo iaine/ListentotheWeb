@@ -50,11 +50,12 @@ If your paper is to be included in the companion collection of the ACM WebSci24 
 ## Submissions
 
 Please submit your abstract (300 words) to EasyChair:
-https://easychair.org/conferences/?conf=sonifywebsci24
+
+[https://easychair.org/conferences/?conf=sonifywebsci24](https://easychair.org/conferences/?conf=sonifywebsci24)
 
 Papers should be up to 5 pages (including references, appendices, etc.). 
 
-All papers should adopt the current ACM SIG Conference proceedings template (acmart.cls). Please submit papers as PDF files using the ACM template, either in Microsoft Word format (available at https://www.acm.org/publications/proceedings-template under “Word Authors”) or with the ACM LaTeX template on the Overleaf platform, which is available at https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty. In particular; please ensure that you are using the two-column version of the appropriate template.
+All papers should adopt the current ACM SIG Conference proceedings template (acmart.cls). Please submit papers as PDF files using the ACM template, either in Microsoft Word format (available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) under “Word Authors”) or with the ACM LaTeX template on the Overleaf platform, which is available at [https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). In particular; please ensure that you are using the two-column version of the appropriate template.
 
 ## Organisers
 
