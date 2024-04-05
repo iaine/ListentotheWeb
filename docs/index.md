@@ -40,7 +40,7 @@ The session will begin with short presentations, such as paper or audio of about
 
 ## Dates
 
-The deadline is midnight April 4th using Anywhere on Earth time.
+The deadline is midnight April 8th using Anywhere on Earth time.
 
 We aim to send responses after April 12th. 
 
