@@ -1,4 +1,4 @@
-## Web Science Sonificaton workshop
+## Web Science Sonification workshop
 
 ### What is Sonification?
 
