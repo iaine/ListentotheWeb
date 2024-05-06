@@ -25,11 +25,11 @@ The boundaries between these and sonification are some what porous
 
 ### Bibliography
 
-Kramer, G. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N., & 
+Kramer, G. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. 
+
+Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N., & Neuhoff, J. (2010). Sonification Report: Status of the Field and Research Agenda. Department of Psychology: Faculty Publications. https://digitalcommons.unl.edu/psychfacpub/444 Dombois, F. & Eckel, G.. (2011). 
 
 Levin, J., 2016. Black hole blues and other songs from outer space. Anchor.
-
-Neuhoff, J. (2010). Sonification Report: Status of the Field and Research Agenda. Department of Psychology: Faculty Publications. https://digitalcommons.unl.edu/psychfacpub/444 Dombois, F. & Eckel, G.. (2011). 
 
 Audification. In Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
 
