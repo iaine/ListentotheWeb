@@ -31,6 +31,8 @@ Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N., & Neuh
 
 Levin, J., 2016. Black hole blues and other songs from outer space. Anchor.
 
+[]Next >>](design)
+
 Audification. In Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
 
 
