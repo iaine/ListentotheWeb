@@ -19,3 +19,5 @@ You can also think about more in depth sounds, such as using noise for sonificat
 Emsley, I., De Roure, D. and Chamberlain, A., 2017, August. A network of noise: designing with a decade of data to sonify JANET. In Proceedings of the 12th International Audio Mostly Conference on Augmented and Participatory Sound and Music Experiences (pp. 1-5).
 
 Emsley, I., & Chamberlain, A. (2021). Sounding out the System: Multidisciplinary Web Science Platforms for Creative Sonification. Companion Publication of the 13th ACM Web Science Conference 2021.
+
+[<< Previous](introduction)
