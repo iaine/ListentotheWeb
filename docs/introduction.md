@@ -10,6 +10,10 @@ A popular link for sonification comes from hte Web Science domain: Hatnote's [Li
 
 Audification is a nearly direct mapping of data to audio (Kramer, 1994), such as a seismograph or Geiger counter. 
 
+Audification is useful is time is an immediate concern.
+
+An example comes from the Laser Interferometer Gravitational-Wave Observatory (LIGO) [experiments](https://gwosc.org/audio/) or Janna Levin's Black Hole Blues and Other Songs from Outer Space (2016).
+
 Musification is the application of musical terms, such polyphony, to the representation. 
 
 The boundaries between these and sonification are some what porous 
@@ -20,3 +24,14 @@ The boundaries between these and sonification are some what porous
 
 
 ### Bibliography
+
+Kramer, G. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N., & 
+
+Levin, J., 2016. Black hole blues and other songs from outer space. Anchor.
+
+Neuhoff, J. (2010). Sonification Report: Status of the Field and Research Agenda. Department of Psychology: Faculty Publications. https://digitalcommons.unl.edu/psychfacpub/444 Dombois, F. & Eckel, G.. (2011). 
+
+Audification. In Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
+
+
+
