@@ -20,4 +20,4 @@ Emsley, I., De Roure, D. and Chamberlain, A., 2017, August. A network of noise: 
 
 Emsley, I., & Chamberlain, A. (2021). Sounding out the System: Multidisciplinary Web Science Platforms for Creative Sonification. Companion Publication of the 13th ACM Web Science Conference 2021.
 
-[<< Previous](introduction)
+[<< Previous](introduction)  [Next >>](resources)
