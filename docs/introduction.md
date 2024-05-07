@@ -4,7 +4,7 @@
 
 Sonification is the use of non-speech audio to represent data (Kramer et al., 1997). 
 
-A popular link for sonification comes from hte Web Science domain: Hatnote's [Listen to Wikipedia](http://listen.hatnote.com/). 
+A popular link for sonification comes from the Web Science domain: Hatnote's [Listen to Wikipedia](http://listen.hatnote.com/). 
 
 ### Audification and Musification
 
@@ -23,15 +23,25 @@ The boundaries between these and sonification are some what porous
 ### Model-Based Sonification
 
 
+### Sonification and Audio Graph
+
+BBC, The sound of a falling currency, https://www.bbc.co.uk/programmes/p040tngz
+
+Somatic Sounds, Iraq Body Count, https://soundcloud.com/somatic-sounds/iraq-body-count-guillaume-potard
+
 ### Bibliography
 
-Kramer, G. (1994). Auditory Display: Sonification, Audification, and Auditory Interfaces. 
+Dombois, F. & Eckel, G. 2011. Audification. In Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
 
-Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N., & Neuhoff, J. (2010). Sonification Report: Status of the Field and Research Agenda. Department of Psychology: Faculty Publications. https://digitalcommons.unl.edu/psychfacpub/444 Dombois, F. & Eckel, G.. (2011). 
+Hermann, T. and Ritter, H., 1999. Listen to your data: Model-based sonification for data analysis. Advances in intelligent computing and multimedia systems, 8, pp.189-194.
+
+Kramer, G. 1994. Auditory Display: Sonification, Audification, and Auditory Interfaces. 
+
+Kramer, G., Walker, B., Bonebright, T., Cook, P., Flowers, J., Miner, N., & Neuhoff, J. 2010. Sonification Report: Status of the Field and Research Agenda. Department of Psychology: Faculty Publications. https://digitalcommons.unl.edu/psychfacpub/444 
 
 Levin, J., 2016. Black hole blues and other songs from outer space. Anchor.
 
-Audification. In Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
+Walker, B.N. and Nees, M.A., 2011. Theory of sonification. In Hermann, T., Hunt, A., Neuhoff, J. G., editors, The Sonification Handbook, chapter 12, pages 301-324. Logos Publishing House, Berlin, Germany.
 
 [Next >>](design)
 
