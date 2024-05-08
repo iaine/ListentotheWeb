@@ -15,6 +15,8 @@ Canvas: Does this contain the questions useful to Web Science?
 
 Sketching: Visual sketching of ideas, Vocal Sketching, Sound Sketching
 
+[Workshop notes](introduction) are here. 
+
 ## Resources
 
 Ciuccarelli, P and Lenzi, S. 2020. Data Sonification Canvas. DOI:10.13140/RG.2.2.20307.66084
