@@ -4,6 +4,10 @@ Sonification presents challenges in how to design sonic representations and how 
 
 We are interested in interdisciplinary insights from digital humanities, sound studies, computational social science, and web science to help identify the type of data that might be sonified, techniques that are being used, and what might be heard within the sounds. The insights from this workshop will help share practice from current projects while helping to identify future research directions. 
 
+## Programme
+
+The workshop programme is [here](programme) and [notes](introduction)
+
 ## Call for Submissions
 
 We invite presentations, demos, and papers about experiences or provocations in this area. 
