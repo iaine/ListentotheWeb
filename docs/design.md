@@ -22,7 +22,7 @@ Once you have considered the above questions and thought what you are want to so
 
 One way may be to assign a value to a note. A simple example might be the DNA sequence which is ACGT. 
 
-You might make use of cyphers if you want to want to encypher the data, such as the Haydn cipher. (If this is of interest, listen to Olivier Messians' music.)
+You might make use of cyphers if you want to want to encypher the data, such as the Haydn cipher. (If this is of interest, listen to Olivier Messiaens' music.)
 
 You might think about other approaches like earcons, audicons, or even samples. Here you are using more complex sounds and beginning to interpret sounds.  
 
