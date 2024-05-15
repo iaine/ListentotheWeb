@@ -39,7 +39,7 @@ You can also think about more in depth sounds, such as using noise for sonificat
 
 ### Exercise
 
-In this workshop, we will take the use the design mapping (Ciuccarelli and Lenzi, 2020) and apply it to some data to work through the issues. 
+In this workshop, we will take the use the design mapping sheet (Ciuccarelli and Lenzi, 2020) and apply it to some data to work to design a sonification. It might be useful to apply some of the considerations from the [listening](listening) session to think about the potential effect of the audio representation. 
 
 Other approaches are listed in the bibliography.
 
