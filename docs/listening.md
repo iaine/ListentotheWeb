@@ -1,8 +1,24 @@
 ##  Listening 
 
-Listening is a key skil for audio work and it is under taught. Here we are not just hearing a sound but trying to understand it. 
+Listening is a key skill for audio work and it is under taught. Here we are not just hearing a sound but trying to understand what is is projecting and trying to do. 
+
+## Sound as a Cultural Artefact
+
+How does culture affect the sound that you are listening to, or thinking about using? Sounds that we think are common may have different representations in other languages and cultures, along with meaning. 
 
 ### Exercise
+
+* What sound does a cat make?
+
+Collect these instances and compare them. Are there differences? 
+
+## Sound as an Interpreted Object
+
+When we listen to sonifications, we interpret the sound that we hear. We might know the data and bring some knowledge of that to it. If we do not, we might react to any contextual information given, such as the title.
+
+We might also question what type of sound that we are hearing. Is it a like an audio graphic (think infographic) that provides and argument or is it presenting a deeper engagement through sound?
+
+ ### Exercise
 
 1. Listen to the both the audio pieces below. 
 
@@ -14,12 +30,5 @@ BBC, The sound of a falling currency, https://www.bbc.co.uk/programmes/p040tngz
 
 Somatic Sounds, Iraq Body Count, https://soundcloud.com/somatic-sounds/iraq-body-count-guillaume-potard
 
-## Sound as a Cultural Artefact
 
-How does culture affect the sound that you are listening to, or thinking about using? Sounds that we think are common may have different representations in other languages and cultures, along with meaning. 
-
-### Exercise
-
-* What sound does a cat make?
-
-Collect these instances and compare them. Are there differences? 
+[<< Previous](introduction)  [Next >>](design)
