@@ -18,7 +18,7 @@ When we listen to sonifications, we interpret the sound that we hear. We might k
 
 We might also question what type of sound that we are hearing. Is it a like an audio graphic (think infographic) that provides and argument or is it presenting a deeper engagement through sound?
 
- ### Exercise
+### Exercise
 
 1. Listen to the both the audio pieces below. 
 
