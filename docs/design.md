@@ -15,10 +15,9 @@ or a combination.
 
 Here you might think about the type of data to be sonified and the approaches, such as qualitative - such as categories - or quantitative - like discrete numbers or continuous values like time series. 
 
-
 ## Mapping Data to Sound
 
-Once you have considered the above questions and thought what you are want to sonify, the process of  
+Once you have considered the above questions and thought what you are want to sonify, then you need to think about how the data is to be mapped to a sound. 
 
 One way may be to assign a value to a note. A simple example might be the DNA sequence which is ACGT. 
 
@@ -38,9 +37,9 @@ We could use audio graphs, such as line charts to show relationships over time (
 
 You can also think about more in depth sounds, such as using noise for sonifications of networks (Emsley, De Roure and Chamberlain, A, 2017). 
 
-### Excersice
+### Exercise
 
-In this workshop, we will take the use the design mapping (Ciuccarelli and Lenzi, 2020) and apply it to some data. 
+In this workshop, we will take the use the design mapping (Ciuccarelli and Lenzi, 2020) and apply it to some data to work through the issues. 
 
 Other approaches are listed in the bibliography.
 
